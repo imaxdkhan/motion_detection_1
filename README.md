@@ -158,7 +158,7 @@ numpy
 
 ## Author
 
-**Your Name**
+**MOHAMMED AMAN ULLA KHAN**
 
 BCA Final Year Student
 
